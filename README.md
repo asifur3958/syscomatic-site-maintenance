@@ -17,4 +17,4 @@ A modern, high-fidelity "Coming Soon" landing page designed to replace the main 
 * **Countdown Timer:** Precise visual timer targeting the relaunch date.
 
 ---
-© 2025 Syscomatic | www.syscomatic.com
+© 2025 Asifur Rahman for Syscomatic | www.syscomatic.com
